@@ -1,0 +1,35 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.9a71ee5d.js",
+        "/build/102.3a62edf7.js",
+        "/build/618.b8b8cade.js",
+        "/build/138.60cd2497.js",
+        "/build/app.4d405df6.js"
+      ],
+      "css": [
+        "/build/app.29bc9a43.css"
+      ]
+    },
+    "cart": {
+      "js": [
+        "/build/runtime.9a71ee5d.js",
+        "/build/102.3a62edf7.js",
+        "/build/618.b8b8cade.js",
+        "/build/cart.d6335d5b.js"
+      ]
+    },
+    "filter": {
+      "js": [
+        "/build/runtime.9a71ee5d.js",
+        "/build/102.3a62edf7.js",
+        "/build/840.19b06c53.js",
+        "/build/filter.742113a6.js"
+      ],
+      "css": [
+        "/build/filter.ab3a29d9.css"
+      ]
+    }
+  }
+}
