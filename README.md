@@ -33,12 +33,12 @@ composer -v
 
 ### 1. Démarrez par vous créer un compte Stripe sur https://dashboard.stripe.com/ <br>
 Lorsqu'il vous sera demandé vos informations sur : https://dashboard.stripe.com/account/onboarding/business-structure
-![img.png](img.png)
+![README/img.png](README/img.png)
 Il vous suffit de cliquer sur continuer, vous n'avez rien de plus à remplir pour rendre effectif votre compte.
 <br><br>
 Puis, <br>
 Allez sur  https://dashboard.stripe.com/test/dashboard Votre clé secrète se trouve en bas à droite sur votre dashboard. Ciquez sur l'oeil pour la découvrir.
-![img_1.png](img_1.png)
+![README/img_1.png](README/img_1.png)
 
 ### 2. Dans /.env.local :<br>
 Mettre à jour ses identifiants de connexion MySql et sa secretkey de Stripe
