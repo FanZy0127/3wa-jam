@@ -94,3 +94,14 @@ Dézipper dans le dossier de votre choix et ajouter le path du dossier dans le P
 wget https://get.symfony.com/cli/installer -O - | bash
 mv /Users/VOTRENOM/.symfony5/bin/symfony /usr/local/bin/symfony
 ```
+
+# TODO
+
+1. Migrer la partie SF en API (cette API devra être documentée) de manière à pouvoir
+   consommer le service depuis plusieurs dispositifs. Vous avez le choix sur la stack technique,
+   mais elle devra être argumentée.
+2. Proposer un front-end qui va consommer l'API.
+3. Détailler les phases de tests.
+4. Comment organisez-vous un changement de version TLS majeur ?
+5. Comment implémenter un filtre à facettes sur le projet (il faudra sûrement enrichir le modèle
+   de données) ?
